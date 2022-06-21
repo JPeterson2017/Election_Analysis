@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election-Audit & Analysis
 
 ## Overview of Election Audit
 An employee from the CO board of Elections has asked us to complete an election audit of a recent congressional election. The audit consists of completing the following operations:
